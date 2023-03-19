@@ -1,2 +1,0 @@
-# Luis
-Meu repositório pessoal
